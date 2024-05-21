@@ -1,0 +1,12 @@
+[
+    {"merk": "Rolex", "jenisJam": "Oyster Perpetual", "imageId": "rolex"},
+    {"merk": "Casio", "jenisJam": "G-Shock G9000", "imageId": "casio"},
+    {"merk": "Suunto", "jenisJam": "Race", "imageId": "suunto"},
+    {"merk": "Apple Watch", "jenisJam": "Series 9", "imageId": "applewatch"},
+    {"merk": "Audemars Piguet", "jenisJam": "ChronoGarph", "imageId": "audemarspiguet"},
+    {"merk": "Zenith", "jenisJam": "El Pamero", "imageId": "zenith"},
+    {"merk": "TAG Heuer", "jenisJam": "Carrera", "imageId": "tagheuer"},
+    {"merk": "Omega", "jenisJam": "Constellation Globemaster", "imageId": "omega"},
+    {"merk": "Seiko", "jenisJam": "Prospex", "imageId": "seiko"},
+    {"merk": "Tissot", "jenisJam": "T-Touch Connect Sport", "imageId": "tissot"}
+]
